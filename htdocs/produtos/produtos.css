@@ -1,0 +1,33 @@
+body {
+    background-color: #EDEDED;
+}
+#menu ul {
+    padding:3px;
+    margin:0px;
+    background-color:#bba8a8;
+    list-style:none;
+    text-align: center;
+    border-radius: 10px;
+}
+#menu ul li { 
+    display: inline; }
+#menu ul li a {
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 10px;
+
+    background-color:#f7e4e4;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #807474;
+}
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+fieldset {
+    width: 180px;
+    background-color:rgb(255, 225, 225);
+    
+}

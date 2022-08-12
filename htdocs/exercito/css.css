@@ -1,0 +1,32 @@
+h1{ 
+    text-align: center;
+}
+.titulo {
+	text-align: center;
+	background-color: #E1C270;
+	padding: 15px 25px;
+	}
+	
+.menu {
+	text-align: center;
+	background-color: rgb(255,255,255);
+	color: rgb(15, 6, 41);
+	font-weight: #;
+	
+}
+
+.botoes{
+	
+		      background-color: red;
+      color:white;
+      padding: 15px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+	
+}
+
+.menu2{
+		background-color: #1E90FF;
+	
+}
